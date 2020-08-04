@@ -1,0 +1,11 @@
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.exe
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.deps.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.runtimeconfig.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.runtimeconfig.dev.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.dll
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.pdb
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.csprojAssemblyReference.cache
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.AssemblyInfo.cs
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.dll
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.pdb
